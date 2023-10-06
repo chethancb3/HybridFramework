@@ -1,0 +1,16 @@
+import java.util.Scanner;
+class sample
+{
+	
+	public static void main(String[] args)
+	{
+	Scanner s= new Scanner (System.in);
+
+	System.out.println(" enter one value");
+	char a= next()charAt(2);
+	
+	System.out.println(" value is "+a);
+	
+	}
+
+}
